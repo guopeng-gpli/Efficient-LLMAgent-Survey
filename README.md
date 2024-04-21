@@ -48,10 +48,14 @@ Table of content:
   
 ### Memory
 
+- [RET-LLM](https://arxiv.org/abs/2305.14322)RET-LLM: Towards a General Read-Write Memory for Large Language Models
+- [Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning](https://arxiv.org/abs/2305.11759) | ACL'23
+- [Memory Sandbox](https://arxiv.org/abs/2308.01542)Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents
+
 ### Agent Framework
 
 ## Component Collaboration
-
+focus on improving the efficiency of data exchange and data transmission within AI agents:
 Multi-Agent
 
 ## Device-Edge-Cloud Collaboration
