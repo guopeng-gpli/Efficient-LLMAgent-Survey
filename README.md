@@ -12,12 +12,11 @@ Table of content:
     - [Tool and Action](#tool-and-action)
       - [Serverless](#serverless)
     - [Memory](#memory)
-    - [Agent Framework](#agent-framework)
-  - [Component Collaboration](#component-collaboration)
+  - [Component Collaboration and Agent Framework](#component-collaboration-and-agent-framework)
   - [Device-Edge-Cloud Collaboration](#device-edge-cloud-collaboration)
   - [LLM and  Agent Framework](#llm-and--agent-framework)
     - [LLM Framework](#llm-framework)
-    - [Agent Framework](#agent-framework-1)
+    - [Agent Framework](#agent-framework)
   - [Benchmark, Trace, and Dataset](#benchmark-trace-and-dataset)
   - [LLM and Agent on Mobile Platform](#llm-and-agent-on-mobile-platform)
   - [Survey Papers](#survey-papers)
@@ -54,9 +53,9 @@ Table of content:
 - [Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning](https://arxiv.org/abs/2305.11759) | ACL'23
 - [Memory Sandbox](https://arxiv.org/abs/2308.01542)Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents
 
-### Agent Framework
 
-## Component Collaboration
+
+## Component Collaboration and Agent Framework
 focus on improving the efficiency of data exchange and data transmission within AI agents:
 - [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](https://arxiv.org/abs/2306.03314)
 - [Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization](https://arxiv.org/abs/2310.02170)
