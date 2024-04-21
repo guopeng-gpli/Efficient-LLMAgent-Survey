@@ -26,14 +26,14 @@ Table of content:
 
 
 ## What is LLM Agent
-[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 ## Efficient Serving LLM Agent
 
 ### LLM Serving
-[HeteGen](https://arxiv.org/abs/2403.01164) HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices | MLSys'24
+- [HeteGen](https://arxiv.org/abs/2403.01164) HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices | MLSys'24
 
-[POLCA](https://www.microsoft.com/en-us/research/uploads/prodnew/2024/03/GPU_Power_ASPLOS_24.pdf): Characterizing Power Management Opportunities for LLMs in the Cloud | ASPLOS'24
+- [POLCA](https://www.microsoft.com/en-us/research/uploads/prodnew/2024/03/GPU_Power_ASPLOS_24.pdf): Characterizing Power Management Opportunities for LLMs in the Cloud | ASPLOS'24
 
 ### Planning
 
@@ -42,7 +42,8 @@ Table of content:
 
 
 #### Serverless
-[Serverless LLM](https://arxiv.org/abs/2401.14351): ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models | OSDI'24
+- [Serverless LLM](https://arxiv.org/abs/2401.14351): ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models | OSDI'24
+  
 ### Memory
 
 ### Agent Framework
@@ -52,13 +53,14 @@ Table of content:
 Multi-Agent
 
 ## Device-Edge-Cloud Collaboration
-[Hybrid LLM](https://openreview.net/forum?id=02f3mUtqnM): Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing | ICLR'24
+- [Hybrid LLM](https://openreview.net/forum?id=02f3mUtqnM): Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing | ICLR'24
 
+- [](https://arxiv.org/abs/2306.02003): On Optimal Caching and Model Multiplexing for Large Model Inference | NeurIPS'23
 ## LLM and LLM Agent Framework
 
 
 ## Benchmark, Trace, and Dataset
-[BurstGPT](https://arxiv.org/abs/2401.17644):Towards Efficient and Reliable LLM Serving: A Real-World Workload Study
+- [BurstGPT](https://arxiv.org/abs/2401.17644):Towards Efficient and Reliable LLM Serving: A Real-World Workload Study
 
 ## LLM and Agent on Mobile Platform
 
@@ -69,7 +71,7 @@ Multi-Agent
 
 
 ## Survey Papers
-[A Survey on Effective Invocation Methods of Massive LLM Services](https://arxiv.org/abs/2402.03408)
+- [A Survey on Effective Invocation Methods of Massive LLM Services](https://arxiv.org/abs/2402.03408)
 
 ## Others
 
