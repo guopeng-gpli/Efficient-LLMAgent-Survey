@@ -34,15 +34,15 @@ Table of content:
 - [POLCA](https://www.microsoft.com/en-us/research/uploads/prodnew/2024/03/GPU_Power_ASPLOS_24.pdf)Characterizing Power Management Opportunities for LLMs in the Cloud | ASPLOS'24
 
 ### Planning
-
+- [PreAct](https://arxiv.org/abs/2402.11534)PreAct: Predicting Future in ReAct Enhances Agent's Planning Ability
 - [An LLM Compiler for Parallel Function Calling](https://arxiv.org/abs/2312.04511)
 - [Dynamic Planning with a LLM](https://arxiv.org/abs/2308.06391)
 ### Tool and Action
 - [ToolChain^*](https://arxiv.org/abs/2310.13227)ToolChain^*: Efficient Action Space Navigation in Large Language Models with A* Search | ICLR'24
 - [Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments](https://arxiv.org/abs/2402.14672)
-
+- [Efficient Tool Use with Chain-of-Abstraction Reasoning] (https://arxiv.org/abs/2401.17464)
 - [ToolNet](https://arxiv.org/abs/2403.00839) ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph
-
+- [Budget-Constrained Tool Learning with Planning](https://arxiv.org/abs/2402.15960)
 #### Serverless
 - [Serverless LLM](https://arxiv.org/abs/2401.14351) ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models | OSDI'24
   
@@ -71,7 +71,7 @@ Multi-Agent
 
 - [Mobile LLM](https://arxiv.org/abs/2402.14905) MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases | Meta
 
-
+-[BBox-Adapter: Lightweight Adapting for Black-Box Large Language Models](https://arxiv.org/abs/2402.08219)
 
 ## Survey Papers
 - [A Survey on Effective Invocation Methods of Massive LLM Services](https://arxiv.org/abs/2402.03408)
