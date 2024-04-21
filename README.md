@@ -18,8 +18,6 @@ Table of content:
   - [LLM and LLM Agent Framework](#llm-and-llm-agent-framework)
   - [Benchmark, Trace, and Dataset](#benchmark-trace-and-dataset)
   - [LLM and Agent on Mobile Platform](#llm-and-agent-on-mobile-platform)
-    - [LLM for Mobile Platform](#llm-for-mobile-platform)
-    - [Agent for Mobile Platform](#agent-for-mobile-platform)
   - [Survey Papers](#survey-papers)
   - [Others](#others)
 
@@ -37,9 +35,13 @@ Table of content:
 
 ### Planning
 
-
+- [An LLM Compiler for Parallel Function Calling](https://arxiv.org/abs/2312.04511)
+- [Dynamic Planning with a LLM](https://arxiv.org/abs/2308.06391)
 ### Tool and Action
+- [ToolChain^*](https://arxiv.org/abs/2310.13227)ToolChain^*: Efficient Action Space Navigation in Large Language Models with A* Search | ICLR'24
+- [Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments](https://arxiv.org/abs/2402.14672)
 
+- [ToolNet](https://arxiv.org/abs/2403.00839) ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph
 
 #### Serverless
 - [Serverless LLM](https://arxiv.org/abs/2401.14351) ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models | OSDI'24
@@ -57,21 +59,17 @@ Multi-Agent
 
 - [Caching](https://arxiv.org/abs/2306.02003) On Optimal Caching and Model Multiplexing for Large Model Inference | NeurIPS'23
 
-- [Octopus v2](https://arxiv.org/abs/2404.01744v5)Octopus v2: On-device language model for super agent
+- [Octopus v2](https://arxiv.org/abs/2404.01744v5)Octopus v2: On-device language model for super agent | Stanford 
 - 
 ## LLM and LLM Agent Framework
 
 
 ## Benchmark, Trace, and Dataset
-- [BurstGPT](https://arxiv.org/abs/2401.17644):Towards Efficient and Reliable LLM Serving: A Real-World Workload Study
+- [BurstGPT](https://arxiv.org/abs/2401.17644)Towards Efficient and Reliable LLM Serving: A Real-World Workload Study
 
 ## LLM and Agent on Mobile Platform
 
-### LLM for Mobile Platform
-
-
-### Agent for Mobile Platform
-
+- [Mobile LLM](https://arxiv.org/abs/2402.14905) MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases | Meta
 
 
 
