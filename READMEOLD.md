@@ -1,25 +1,6 @@
 # Efficient-LLMAgent-Survey
-- [Efficient-LLMAgent-Survey](#efficient-llmagent-survey)
-  - [LLM Systems](#llm-systems)
-    - [Pre-Training](#pre-training)
-    - [Serving](#serving)
-    - [System Efficiency Optimization](#system-efficiency-optimization)
-    - [Multi-Model Systems](#multi-model-systems)
-    - [Image Generation Systems](#image-generation-systems)
-  - [LLM for Systems](#llm-for-systems)
-  - [ML Systems](#ml-systems)
-  - [Survey Paper](#survey-paper)
-  - [LLM Benchmark / Leaderboard ? Traces](#llm-benchmark--leaderboard--traces)
-  - [Other list](#other-list)
-  - [LLM Serving Frameworks](#llm-serving-frameworks)
-  - [Related Readings](#related-readings)
 
 This repository maintains a curated list of papers related to Large Language Model Based Agents (LLM Agents), especially focusing on efficient serving methods for LLM Agents.
-
-This paper list covers several main aspects of efficient serving methods for LLM Agents. 
-Table of content:
-
-
 
 ## LLM Systems
 ### Pre-Training
