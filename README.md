@@ -30,7 +30,7 @@ Table of content:
 
 ### LLM Serving
 - [HeteGen](https://arxiv.org/abs/2403.01164) HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices | MLSys'24
-
+- [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234v1)
 - [POLCA](https://www.microsoft.com/en-us/research/uploads/prodnew/2024/03/GPU_Power_ASPLOS_24.pdf)Characterizing Power Management Opportunities for LLMs in the Cloud | ASPLOS'24
 
 ### Planning
@@ -56,7 +56,10 @@ Table of content:
 
 ## Component Collaboration
 focus on improving the efficiency of data exchange and data transmission within AI agents:
-Multi-Agent
+- [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](https://arxiv.org/abs/2306.03314)
+- [Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization](https://arxiv.org/abs/2310.02170)
+- [AIOS: LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
+- [AgentLite](https://arxiv.org/abs/2402.15538)AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System
 
 ## Device-Edge-Cloud Collaboration
 - [Hybrid LLM](https://openreview.net/forum?id=02f3mUtqnM) Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing | ICLR'24
@@ -75,10 +78,12 @@ Multi-Agent
 
 - [Mobile LLM](https://arxiv.org/abs/2402.14905) MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases | Meta
 
--[BBox-Adapter: Lightweight Adapting for Black-Box Large Language Models](https://arxiv.org/abs/2402.08219)
+- [BBox-Adapter: Lightweight Adapting for Black-Box Large Language Models](https://arxiv.org/abs/2402.08219)
 
 ## Survey Papers
 - [A Survey on Effective Invocation Methods of Massive LLM Services](https://arxiv.org/abs/2402.03408)
+- [Personal llm agents: Insights and survey about the capability, efficiency and security](https://arxiv.org/abs/2401.05459)
+- [LLM-Based Multi-Agent Systems for Software Engineering: Vision and the Road Ahead](https://arxiv.org/abs/2404.04834)
 
 ## Others
 
