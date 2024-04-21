@@ -17,6 +17,9 @@ Table of content:
   - [Device-Edge-Cloud Collaboration](#device-edge-cloud-collaboration)
   - [LLM and LLM Agent Framework](#llm-and-llm-agent-framework)
   - [Benchmark, Trace, and Dataset](#benchmark-trace-and-dataset)
+  - [LLM and Agent on Mobile Platform](#llm-and-agent-on-mobile-platform)
+    - [LLM for Mobile Platform](#llm-for-mobile-platform)
+    - [Agent for Mobile Platform](#agent-for-mobile-platform)
   - [Survey Papers](#survey-papers)
   - [Others](#others)
 
@@ -43,7 +46,7 @@ Table of content:
 
 Multi-Agent
 
-##  Device-Edge-Cloud Collaboration
+## Device-Edge-Cloud Collaboration
 
 
 ## LLM and LLM Agent Framework
@@ -52,6 +55,12 @@ Multi-Agent
 ## Benchmark, Trace, and Dataset
 
 
+## LLM and Agent on Mobile Platform
+
+### LLM for Mobile Platform
+
+
+### Agent for Mobile Platform
 
 
 ## Survey Papers
