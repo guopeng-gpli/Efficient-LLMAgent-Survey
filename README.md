@@ -15,7 +15,9 @@ Table of content:
     - [Agent Framework](#agent-framework)
   - [Component Collaboration](#component-collaboration)
   - [Device-Edge-Cloud Collaboration](#device-edge-cloud-collaboration)
-  - [LLM and LLM Agent Framework](#llm-and-llm-agent-framework)
+  - [LLM and  Agent Framework](#llm-and--agent-framework)
+    - [LLM Framework](#llm-framework)
+    - [Agent Framework](#agent-framework-1)
   - [Benchmark, Trace, and Dataset](#benchmark-trace-and-dataset)
   - [LLM and Agent on Mobile Platform](#llm-and-agent-on-mobile-platform)
   - [Survey Papers](#survey-papers)
@@ -68,8 +70,46 @@ focus on improving the efficiency of data exchange and data transmission within 
 
 - [Octopus v2](https://arxiv.org/abs/2404.01744v5)Octopus v2: On-device language model for super agent | Stanford 
 - 
-## LLM and LLM Agent Framework
+## LLM and  Agent Framework
+### LLM Framework
+from [here](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
+<div align="center">
 
+|                                                    | Efficient Training | Efficient Inference | Efficient Fine-Tuning    |
+| :-------------------------------------------------------------------- | :------------------: | :--------------------: | :--: |
+| DeepSpeed [[Code](https://github.com/microsoft/DeepSpeed)]            | ✅                   | ✅                     | ✅   |
+| Megatron [[Code](https://github.com/NVIDIA/Megatron-LM)]              | ✅                   | ✅                     | ✅   |
+| Alpa [[Code](https://github.com/alpa-projects/alpa)]                  | ✅                   | ✅                     | ✅   |
+| ColossalAI [[Code](https://github.com/hpcaitech/ColossalAI)]          | ✅                   | ✅                     | ✅   |
+| FairScale [[Code](https://github.com/facebookresearch/fairscale)]     | ✅                   | ✅                     | ✅   |
+| Pax [[Code](https://github.com/google/paxml/)]                        | ✅                   | ✅                     | ✅   |
+| Composer [[Code](https://github.com/mosaicml/composer)]               | ✅                   | ✅                     | ✅   |
+| vLLM [[Code](https://github.com/vllm-project/vllm)]                   | ❌                   | ✅                     | ❌   |
+| TensorRT-LLM [[Code](https://github.com/NVIDIA/TensorRT-LLM)]         | ❌                   | ✅                     | ❌   |
+| LightLLM [[Code](https://github.com/ModelTC/lightllm)]                | ❌                   | ✅                     | ❌   |
+| OpenLLM [[Code](https://github.com/bentoml/OpenLLM)]                  | ❌                   | ✅                     | ✅   |
+| Ray-LLM [[Code](https://github.com/ray-project/ray-llm)]              | ❌                   | ✅                     | ❌   |
+| MLC-LLM [[Code](https://github.com/mlc-ai/mlc-llm)]                   | ❌                   | ✅                     | ❌   |
+| Sax [[Code](https://github.com/google/saxml)]                         | ❌                   | ✅                     | ❌   |
+| Mosec [[Code](https://github.com/mosecorg/mosec)]                     | ❌                   | ✅                     | ❌   |
+| LLM-Foundry [[Code](https://github.com/mosaicml/llm-foundry)]         | ✅                   | ✅                     | ❌   |
+
+</div>
+
+
+
+### Agent Framework
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [LangChain](https://github.com/langchain-ai/langchain)
+- [AutoGen](https://github.com/microsoft/autogen)
+- [Camel](https://www.camel-ai.org/home)
+- [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+- [BabyAGI](https://github.com/yoheinakajima/babyagi)
+- [Al Town](https://github.com/a16z-infra/ai-town)
+- [GPTeam](https://github.com/101dotxyz/GPTeam)
+- [ChatArena](https://github.com/chatarena/chatarena)
+- [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 
 ## Benchmark, Trace, and Dataset
 - [BurstGPT](https://arxiv.org/abs/2401.17644)Towards Efficient and Reliable LLM Serving: A Real-World Workload Study
@@ -79,11 +119,13 @@ focus on improving the efficiency of data exchange and data transmission within 
 - [Mobile LLM](https://arxiv.org/abs/2402.14905) MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases | Meta
 
 - [BBox-Adapter: Lightweight Adapting for Black-Box Large Language Models](https://arxiv.org/abs/2402.08219)
+- [LLM as a System Service on Mobile Devices]()https://arxiv.org/abs/2403.11805
 
 ## Survey Papers
 - [A Survey on Effective Invocation Methods of Massive LLM Services](https://arxiv.org/abs/2402.03408)
 - [Personal llm agents: Insights and survey about the capability, efficiency and security](https://arxiv.org/abs/2401.05459)
 - [LLM-Based Multi-Agent Systems for Software Engineering: Vision and the Road Ahead](https://arxiv.org/abs/2404.04834)
-
+- [CASIT: Collective Intelligent Agent System for Internet of Things](https://ieeexplore.ieee.org/abstract/document/10439991)
+- [Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://arxiv.org/abs/2402.06596)
 ## Others
 
