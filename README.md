@@ -12,7 +12,8 @@ Table of content:
     - [Tool and Action](#tool-and-action)
       - [Serverless](#serverless)
     - [Memory](#memory)
-    - [Multi-Agent](#multi-agent)
+    - [Agent Framework](#agent-framework)
+  - [Component Collaboration](#component-collaboration)
   - [Device-Edge-Cloud Collaboration](#device-edge-cloud-collaboration)
   - [LLM and LLM Agent Framework](#llm-and-llm-agent-framework)
   - [Benchmark, Trace, and Dataset](#benchmark-trace-and-dataset)
@@ -22,7 +23,7 @@ Table of content:
 
 
 ## What is LLM Agent
-
+[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 ## Efficient Serving LLM Agent
 
@@ -33,11 +34,14 @@ Table of content:
 ### Tool and Action
 
 #### Serverless
-
+[Serverless LLM](https://arxiv.org/abs/2401.14351): ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models | OSDI'24
 ### Memory
 
+### Agent Framework
 
-### Multi-Agent 
+## Component Collaboration
+
+Multi-Agent
 
 ##  Device-Edge-Cloud Collaboration
 
