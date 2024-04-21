@@ -33,7 +33,7 @@ Table of content:
 ### LLM Serving
 - [HeteGen](https://arxiv.org/abs/2403.01164) HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices | MLSys'24
 
-- [POLCA](https://www.microsoft.com/en-us/research/uploads/prodnew/2024/03/GPU_Power_ASPLOS_24.pdf): Characterizing Power Management Opportunities for LLMs in the Cloud | ASPLOS'24
+- [POLCA](https://www.microsoft.com/en-us/research/uploads/prodnew/2024/03/GPU_Power_ASPLOS_24.pdf)Characterizing Power Management Opportunities for LLMs in the Cloud | ASPLOS'24
 
 ### Planning
 
@@ -42,7 +42,7 @@ Table of content:
 
 
 #### Serverless
-- [Serverless LLM](https://arxiv.org/abs/2401.14351): ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models | OSDI'24
+- [Serverless LLM](https://arxiv.org/abs/2401.14351) ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models | OSDI'24
   
 ### Memory
 
@@ -53,9 +53,12 @@ Table of content:
 Multi-Agent
 
 ## Device-Edge-Cloud Collaboration
-- [Hybrid LLM](https://openreview.net/forum?id=02f3mUtqnM): Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing | ICLR'24
+- [Hybrid LLM](https://openreview.net/forum?id=02f3mUtqnM) Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing | ICLR'24
 
-- [](https://arxiv.org/abs/2306.02003): On Optimal Caching and Model Multiplexing for Large Model Inference | NeurIPS'23
+- [Caching](https://arxiv.org/abs/2306.02003) On Optimal Caching and Model Multiplexing for Large Model Inference | NeurIPS'23
+
+- [Octopus v2](https://arxiv.org/abs/2404.01744v5)Octopus v2: On-device language model for super agent
+- 
 ## LLM and LLM Agent Framework
 
 
@@ -68,6 +71,8 @@ Multi-Agent
 
 
 ### Agent for Mobile Platform
+
+
 
 
 ## Survey Papers
