@@ -52,7 +52,7 @@ Table of content:
 - [RET-LLM](https://arxiv.org/abs/2305.14322)RET-LLM: Towards a General Read-Write Memory for Large Language Models
 - [Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning](https://arxiv.org/abs/2305.11759) | ACL'23
 - [Memory Sandbox](https://arxiv.org/abs/2308.01542)Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents
-- [Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach](https://arxiv.org/abs/2306.03604)
+  
 
 
 
@@ -61,7 +61,8 @@ focus on improving the efficiency of data exchange and data transmission within 
 - [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](https://arxiv.org/abs/2306.03314)
 - [Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization](https://arxiv.org/abs/2310.02170)
 - [AIOS: LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
-- [AgentLite](https://arxiv.org/abs/2402.15538)AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System
+- [AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System](https://arxiv.org/abs/2402.15538)
+- [Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach](https://arxiv.org/abs/2306.03604)
 
 ## Device-Edge-Cloud Collaboration
 - [Hybrid LLM](https://openreview.net/forum?id=02f3mUtqnM) Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing | ICLR'24
