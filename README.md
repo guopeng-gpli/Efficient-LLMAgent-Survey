@@ -52,6 +52,7 @@ Table of content:
 - [RET-LLM](https://arxiv.org/abs/2305.14322)RET-LLM: Towards a General Read-Write Memory for Large Language Models
 - [Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning](https://arxiv.org/abs/2305.11759) | ACL'23
 - [Memory Sandbox](https://arxiv.org/abs/2308.01542)Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents
+- [Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach](https://arxiv.org/abs/2306.03604)
 
 
 
@@ -126,5 +127,6 @@ from [here](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 - [LLM-Based Multi-Agent Systems for Software Engineering: Vision and the Road Ahead](https://arxiv.org/abs/2404.04834)
 - [CASIT: Collective Intelligent Agent System for Internet of Things](https://ieeexplore.ieee.org/abstract/document/10439991)
 - [Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://arxiv.org/abs/2402.06596)
+- [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](https://arxiv.org/abs/2403.19708)
 ## Others
 
