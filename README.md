@@ -1,4 +1,6 @@
 # Efficient-LLMAgent-Survey
+_**We are currently writing a survey on Efficient LLM Agent Serving and welcome everyone to provide comments on the  list!**_
+
 This repository maintains a curated list of papers related to Large Language Model Based Agents (LLM Agents), especially focusing on efficient serving methods for LLM Agents.
 
 This paper list covers several main aspects of efficient serving methods for LLM Agents. 
