@@ -16,6 +16,7 @@ Table of content:
   - [Device-Edge-Cloud Collaboration](#device-edge-cloud-collaboration)
   - [LLM and  Agent Framework](#llm-and--agent-framework)
     - [LLM Framework](#llm-framework)
+    - [GenAI Develop Engine](#genai-develop-engine)
     - [Agent Framework](#agent-framework)
   - [Benchmark, Trace, and Dataset](#benchmark-trace-and-dataset)
   - [LLM and Agent on Mobile Platform](#llm-and-agent-on-mobile-platform)
@@ -99,7 +100,10 @@ from [here](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 
 </div>
 
+### GenAI Develop Engine
 
+- [dify](https://dify.ai/)
+- [fedml](https://www.fedml.ai/)
 
 ### Agent Framework
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
