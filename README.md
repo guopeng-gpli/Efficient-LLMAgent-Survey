@@ -37,7 +37,7 @@ Table of content:
 - [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234v1)
 - [POLCA](https://www.microsoft.com/en-us/research/uploads/prodnew/2024/03/GPU_Power_ASPLOS_24.pdf)Characterizing Power Management Opportunities for LLMs in the Cloud | ASPLOS'24
 - [ScaleLLM: Unlocking Llama2-13B LLM Inference on Consumer GPU RTX 4090, powered by FEDML Nexus AI](https://blog.fedml.ai/scalellm-unlocking-llama2-13b-llm-inference-on-consumer-gpu-rtx-4090-powered-by-fedml-nexus-ai/)
-
+- [Efficient Interactive LLM Serving with Proxy Model-based Sequence Length Prediction](https://arxiv.org/abs/2404.08509v1)
 ### Planning
 - [PreAct](https://arxiv.org/abs/2402.11534)PreAct: Predicting Future in ReAct Enhances Agent's Planning Ability
 - [An LLM Compiler for Parallel Function Calling](https://arxiv.org/abs/2312.04511)
