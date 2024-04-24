@@ -72,7 +72,7 @@ focus on improving the efficiency of data exchange and data transmission within 
 ## Device-Edge-Cloud Collaboration
 - [Hybrid LLM](https://openreview.net/forum?id=02f3mUtqnM) Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing | ICLR'24
 
-- [Caching](https://arxiv.org/abs/2306.02003) On Optimal Caching and Model Multiplexing for Large Model Inference | NeurIPS'23
+- [n Optimal Caching and Model Multiplexing for Large Model Inference](https://arxiv.org/abs/2306.02003) O | NeurIPS'23
 
 - [Octopus v2](https://arxiv.org/abs/2404.01744v5)Octopus v2: On-device language model for super agent | Stanford 
 - 
@@ -136,7 +136,7 @@ from [here](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 - [LLM-Based Multi-Agent Systems for Software Engineering: Vision and the Road Ahead](https://arxiv.org/abs/2404.04834)
 - [CASIT: Collective Intelligent Agent System for Internet of Things](https://ieeexplore.ieee.org/abstract/document/10439991)
 - [Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://arxiv.org/abs/2402.06596)
-- [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](https://arxiv.org/abs/2403.19708)
+- [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](https://arxiv.org/abs/2404.11584)
 - [Awesome MobileLLM](https://github.com/stevelaskaridis/awesome-mobile-llm)
 ## Others
 
