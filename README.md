@@ -63,13 +63,14 @@ Table of content:
 
 
 ## Component Collaboration and Agent Framework
-focus on improving the efficiency of data exchange and data transmission within AI agents:
+focus on improving the efficiency of data exchange and data transmission within AI agents: ---hongqiu
 - [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](https://arxiv.org/abs/2306.03314)
 - [Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization](https://arxiv.org/abs/2310.02170)
 - [AIOS: LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
 - [AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System](https://arxiv.org/abs/2402.15538)
 - [Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach](https://arxiv.org/abs/2306.03604)
 - [Gorilla: Large Language Model Connected with Massive APIs] (https://gorilla.cs.berkeley.edu/)
+- [Small LLMs Are Weak Tool Learners: A Multi-LLM Agent] (https://arxiv.org/abs/2401.07324)
 
 ## Device-Edge-Cloud Collaboration
 - [Hybrid LLM](https://openreview.net/forum?id=02f3mUtqnM) Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing | ICLR'24
