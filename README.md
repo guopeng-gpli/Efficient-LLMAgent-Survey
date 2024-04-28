@@ -142,6 +142,6 @@ from [here](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 - [Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://arxiv.org/abs/2402.06596)
 - [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](https://arxiv.org/abs/2404.11584)
 - [Awesome MobileLLM](https://github.com/stevelaskaridis/awesome-mobile-llm)
-- [Understanding the planning of LLM agents: A survey] (https://arxiv.org/abs/2402.02716)
+- [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)
 ## Others
-- [Berkeley Function-Calling Leaderboard] (https://gorilla.cs.berkeley.edu/leaderboard.html)
+- [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
