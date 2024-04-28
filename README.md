@@ -71,6 +71,7 @@ focus on improving the efficiency of data exchange and data transmission within 
 - [Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach](https://arxiv.org/abs/2306.03604)
 - [Gorilla: Large Language Model Connected with Massive APIs] (https://gorilla.cs.berkeley.edu/)
 - [Small LLMs Are Weak Tool Learners: A Multi-LLM Agent] (https://arxiv.org/abs/2401.07324)
+- [AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System] (https://arxiv.org/abs/2402.15538)
 
 ## Device-Edge-Cloud Collaboration
 - [Hybrid LLM](https://openreview.net/forum?id=02f3mUtqnM) Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing | ICLR'24
@@ -141,5 +142,6 @@ from [here](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 - [Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://arxiv.org/abs/2402.06596)
 - [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](https://arxiv.org/abs/2404.11584)
 - [Awesome MobileLLM](https://github.com/stevelaskaridis/awesome-mobile-llm)
+- [Understanding the planning of LLM agents: A survey] (https://arxiv.org/abs/2402.02716)
 ## Others
 - [Berkeley Function-Calling Leaderboard] (https://gorilla.cs.berkeley.edu/leaderboard.html)
