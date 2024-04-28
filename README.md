@@ -50,6 +50,7 @@ Table of content:
 - [Budget-Constrained Tool Learning with Planning](https://arxiv.org/abs/2402.15960)
 #### Serverless
 - [Serverless LLM](https://arxiv.org/abs/2401.14351) ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models | OSDI'24
+- [FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture] (https://dl.acm.org/doi/abs/10.1145/3620666.3651355) | ASPLOS'24
   
 ### Memory
 
