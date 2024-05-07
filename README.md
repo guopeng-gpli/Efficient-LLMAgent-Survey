@@ -57,7 +57,7 @@ Table of content:
 - [Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering](https://arxiv.org/abs/2404.17723)
 - [RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322)
 - [Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning](https://arxiv.org/abs/2305.11759) | ACL'23
-- [Memory Sandbox](https://arxiv.org/abs/2308.01542)Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents
+- [Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents](https://arxiv.org/abs/2308.01542)
 - [RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation](https://arxiv.org/abs/2404.12457)
   
 
