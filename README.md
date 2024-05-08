@@ -34,6 +34,11 @@ Table of content:
 
 ### LLM Serving
 - [HeteGen](https://arxiv.org/abs/2403.01164) HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices | MLSys'24
+- [CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving](https://arxiv.org/abs/2310.07240)|SIGCOMM '24
+- [Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network](https://arxiv.org/abs/2401.12961)
+- [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving]| OSDI '24
+- [NetLLM: Adapting Large Language Models for Networking] | SIGCOMM '24
+- [DistLLM: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving]| OSDI '24
 - [Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs](https://arxiv.org/abs/2310.01801)
 - [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234v1)
 - [POLCA](https://www.microsoft.com/en-us/research/uploads/prodnew/2024/03/GPU_Power_ASPLOS_24.pdf)Characterizing Power Management Opportunities for LLMs in the Cloud | ASPLOS'24
