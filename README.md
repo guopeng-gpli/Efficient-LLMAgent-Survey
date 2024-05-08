@@ -80,7 +80,8 @@ focus on improving the efficiency of data exchange and data transmission within 
 ## Device-Edge-Cloud Collaboration
 - [Hybrid LLM](https://openreview.net/forum?id=02f3mUtqnM) Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing | ICLR'24
 
-- [n Optimal Caching and Model Multiplexing for Large Model Inference](https://arxiv.org/abs/2306.02003) | NeurIPS'23
+- [Optimal Caching and Model Multiplexing for Large Model Inference](https://arxiv.org/abs/2306.02003) | NeurIPS'23
+- [Optimising Calls to Large Language Models with Uncertainty Based Two-Tier Selection](https://arxiv.org/abs/2405.02134)
 
 - [Octopus v2: On-device language model for super agent ](https://arxiv.org/abs/2404.01744v5)| Stanford 
 - [Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent](https://arxiv.org/abs/2404.11459)| Stanford 
