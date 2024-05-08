@@ -33,9 +33,11 @@ Table of content:
 ## Efficient Serving LLM Agent
 
 ### LLM Serving
+- [RelayAttention for Efficient Large Language Model Serving with Long System Prompts](https://arxiv.org/abs/2402.14808)
 - [Splitwise: Efficient generative LLM inference using phase splitting](https://arxiv.org/abs/2311.18677)|ISCA'24
 - [MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition]
 - [A Hardware Evaluation Framework for Large Language Model Inference](https://arxiv.org/abs/2312.03134)|ISCA'24
+- [Efficient LLM Inference with Kcache](https://arxiv.org/abs/2404.18057)
 - [HeteGen](https://arxiv.org/abs/2403.01164) HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices | MLSys'24
 - [CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving](https://arxiv.org/abs/2310.07240)|SIGCOMM '24
 - [Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network](https://arxiv.org/abs/2401.12961)
@@ -155,9 +157,10 @@ from [here](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 - [LLM-Based Multi-Agent Systems for Software Engineering: Vision and the Road Ahead](https://arxiv.org/abs/2404.04834)
 - [CASIT: Collective Intelligent Agent System for Internet of Things](https://ieeexplore.ieee.org/abstract/document/10439991)
 - [Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://arxiv.org/abs/2402.06596)
-- [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey](https://arxiv.org/abs/2404.11584)
+- [**The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey**](https://arxiv.org/abs/2404.11584)
 - [Awesome MobileLLM](https://github.com/stevelaskaridis/awesome-mobile-llm)
 - [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)
+- [**Awesome-LLM-Inference**](https://github.com/DefTruth/Awesome-LLM-Inference)
 ## Others
 - [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
 - [A Primer on the Inner Workings of Transformer-based Language Models](https://arxiv.org/abs/2405.00208)
