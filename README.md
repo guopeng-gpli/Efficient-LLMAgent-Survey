@@ -34,6 +34,7 @@ Table of content:
 
 ### LLM Serving
 - [RelayAttention for Efficient Large Language Model Serving with Long System Prompts](https://arxiv.org/abs/2402.14808)
+- [ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching]
 - [Splitwise: Efficient generative LLM inference using phase splitting](https://arxiv.org/abs/2311.18677)|ISCA'24
 - [MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition]
 - [A Hardware Evaluation Framework for Large Language Model Inference](https://arxiv.org/abs/2312.03134)|ISCA'24
