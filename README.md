@@ -82,7 +82,7 @@ focus on improving the efficiency of data exchange and data transmission within 
 
 - [Optimal Caching and Model Multiplexing for Large Model Inference](https://arxiv.org/abs/2306.02003) | NeurIPS'23
 - [Optimising Calls to Large Language Models with Uncertainty Based Two-Tier Selection](https://arxiv.org/abs/2405.02134)
-
+- [Octopus: On-device language model for function calling of software APIs](https://arxiv.org/abs/2404.01549)
 - [Octopus v2: On-device language model for super agent ](https://arxiv.org/abs/2404.01744v5)| Stanford 
 - [Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent](https://arxiv.org/abs/2404.11459)| Stanford 
 - [Octopus v4: Graph of language models](https://arxiv.org/abs/2404.19296)
