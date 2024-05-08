@@ -33,6 +33,9 @@ Table of content:
 ## Efficient Serving LLM Agent
 
 ### LLM Serving
+- [Splitwise: Efficient generative LLM inference using phase splitting](https://arxiv.org/abs/2311.18677)|ISCA'24
+- [MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition]
+- [A Hardware Evaluation Framework for Large Language Model Inference](https://arxiv.org/abs/2312.03134)|ISCA'24
 - [HeteGen](https://arxiv.org/abs/2403.01164) HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices | MLSys'24
 - [CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving](https://arxiv.org/abs/2310.07240)|SIGCOMM '24
 - [Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network](https://arxiv.org/abs/2401.12961)
