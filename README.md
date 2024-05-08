@@ -50,6 +50,7 @@ Table of content:
 - [An LLM Compiler for Parallel Function Calling](https://arxiv.org/abs/2312.04511)
 - [Dynamic Planning with a LLM](https://arxiv.org/abs/2308.06391)
 ### Tool and Action
+- [Automatic and Efficient Customization of Neural Networks for ML Applications](https://arxiv.org/abs/2310.04685)|OSDI ' 24
 - [ToolChain^*](https://arxiv.org/abs/2310.13227)ToolChain^*: Efficient Action Space Navigation in Large Language Models with A* Search | ICLR'24
 - [Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments](https://arxiv.org/abs/2402.14672)
 - [Efficient Tool Use with Chain-of-Abstraction Reasoning](https://arxiv.org/abs/2401.17464)
